@@ -1,12 +1,12 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
+  "title": "MonitoringEarth.",
+  "url": "https://monitoringearth.org",
+  "domain": "monitoringearth.org",
   "description": "Description of the website. Update me.",
   "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me",
+  "googleAnalyticsId": "140820087",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Resources.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://update-me.com"
@@ -16,10 +16,10 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Kit Macleod.",
+    "twitterHandle": "Kit Macleod"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Kit Macleod."
   }
 }
